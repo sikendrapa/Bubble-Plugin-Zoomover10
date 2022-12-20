@@ -1,0 +1,9 @@
+{
+    "categories": {
+        "0": "containers"
+    },
+    "description": "Just a simple zoom on hover. \nJust select the id of your bubble element and you're good to go!",
+    "image": "//s3.amazonaws.com/appforest_uf/f1670227126682x857030721023427800/zoom.gif",
+    "license": "open_source",
+    "name": "Zoomover10"
+}
